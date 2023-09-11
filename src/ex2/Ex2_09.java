@@ -1,6 +1,6 @@
 package ex2;
 
-public class Ex2_9 {
+public class Ex2_09 {
     public static void main(String[] args) {
         String url = "www.java_study.com";
         float f1 = .10f;

@@ -1,6 +1,6 @@
 package ex2;
 
-public class Ex2_7 {
+public class Ex2_07 {
     public static void main(String[] args) {
         String name = "Ja" + "va";
         String str = name + 8.0;

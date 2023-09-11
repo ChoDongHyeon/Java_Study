@@ -1,6 +1,6 @@
 package ex2;
 
-public class Ex2_8 {
+public class Ex2_08 {
     public static void main(String[] args) {
         int x = 10, y = 5;
         System.out.println("x=" + x);
